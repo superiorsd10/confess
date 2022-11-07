@@ -1,7 +1,8 @@
 # Confess
 > Confess anything that weighs heavily on your heart and mind without shame, because you are anonymous.
 
-Download [_here_](https://play.google.com/store/apps/details?id=com.sachindapkara.confess). <!-- If you have the project hosted somewhere, include the link here. -->
+Download [_here_](https://play.google.com/store/apps/details?id=com.sachindapkara.confess).<br/><br/> <!-- If you have the project hosted somewhere, include the link here. -->
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 ## Table of Contents
 * [General Info](#general-information)
